@@ -1,6 +1,6 @@
 # digit-recognition
 
-Predicting handwritten Digits using CNN
+Predicting handwritten Digits using ANN
 
 To access the dataset go to : https://www.kaggle.com/animatronbot/mnist-digit-recognizer
 
